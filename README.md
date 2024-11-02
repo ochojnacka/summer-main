@@ -10,7 +10,7 @@ trying to learn something _new_ and apply my uni skills
 
 ## current goals
 
-☑️ **Portfolio Website**
+### Portfolio Website
 
 📌 good-looking website for displaying my projects
   * HTML
@@ -22,7 +22,7 @@ trying to learn something _new_ and apply my uni skills
     
 ---
 
-☑️ **Budget Manager**
+### Budget Manager
 
 📌 personal budget manager to track income and expenses
   * Python (_Django_, _Flask_)
@@ -33,7 +33,7 @@ trying to learn something _new_ and apply my uni skills
     
 ---
 
-☑️ **Weather Report API**
+### Weather Report API
 
 📌 API gathering weather data
   * Python (_Flask_/_FastAPI_)\
@@ -41,7 +41,7 @@ trying to learn something _new_ and apply my uni skills
     
 ---
 
-☑️ **To-Do List**
+### To-Do List
 
 📌 app for managing tasks (CRUD)
   * C#
@@ -52,7 +52,7 @@ trying to learn something _new_ and apply my uni skills
     
 ---
 
-☑️ **CMS Blog**
+### CMS Blog
 
 📌 just CMS blog (CRUD)
   * Python (_Django_)
@@ -62,7 +62,7 @@ trying to learn something _new_ and apply my uni skills
     
 ---
 
-☑️ **Data Analysis Something**
+### Data Analysis Something
 
 📌 importing data from outside source, analysis and visualization
   * Python
@@ -71,7 +71,7 @@ trying to learn something _new_ and apply my uni skills
     
 ---
 
-☑️ **Language Learning App**
+### Language Learning App
 
 📌 learning app with adding new words and translations, flashcards, quizzes
   * Python (_Django_/_Flask_)
@@ -82,7 +82,7 @@ trying to learn something _new_ and apply my uni skills
     
 ---
 
-☑️ **Reservation System**
+### Reservation System
 
 📌 reservation system for hotel/restaurant (CRUD)
   * C#
@@ -93,7 +93,7 @@ trying to learn something _new_ and apply my uni skills
     
 ---
 
-☑️ **Game Something**
+### Game Something 
 
 📌 web game (or multiple games with interactive menu)
   * _JavaScript_
@@ -102,7 +102,7 @@ trying to learn something _new_ and apply my uni skills
     
 ---
 
-☑️ **NLP App**
+### NLP App
 
 📌 app analyzing text (ex. sentiments in product reviews)
   * Python
